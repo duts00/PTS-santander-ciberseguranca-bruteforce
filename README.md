@@ -370,6 +370,3 @@ O objetivo final não é comprometer credenciais, e sim compreender o ataque par
 - Metasploitable 2 — Rapid7: https://docs.rapid7.com/metasploit/metasploitable-2/
 - OWASP — Brute Force Attack: https://owasp.org/www-community/attacks/Brute_force_attack
 
----
-
-Desenvolvido por day0 — Bootcamp Santander: Cibersegurança do Zero à Prática (DIO)
